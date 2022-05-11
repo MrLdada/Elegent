@@ -1,0 +1,15 @@
+table {
+	border: chartreuse;
+	border-collapse:collapse;
+	border-spacing:0 ;
+}
+th{
+	background-color: #ccff66;
+	color:#cc33ff;
+	font-weight: 600;
+}
+td,th{
+	padding: 8px 16px;
+	border: 1px solid #eeee00 ;
+	text-align: left;
+}
